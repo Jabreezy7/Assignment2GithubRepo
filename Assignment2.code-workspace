@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Tester"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": []
+	}
+}
